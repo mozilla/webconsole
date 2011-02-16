@@ -1,5 +1,4 @@
-This is the webconsole add-on.  It contains:
+This is the webconsole add-on.
 
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+* This code makes the existing Web Console restartless
+* This is an intial stub for creating APIs for other Addons to customize the Web Console
